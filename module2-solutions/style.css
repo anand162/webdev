@@ -114,5 +114,17 @@
 .col-sm-9 {width: 75%;}
 .col-sm-10 {width: 83.33%;}
 .col-sm-11 {width: 91.66%;}
-.col-sm-12 {width: 100%;}
+.col-sm-12 {width: 100%;} 
+#tok{
+	width: 150px;
+	height: 50px;
+}
+#ber{
+	width: 150px;
+	height: 50px;
+}
+#tok{
+	width: 150px;
+	height: 50px;
+}
 		}
